@@ -55,9 +55,6 @@
 
 ###
 
-<div align="center">
-  <img height="120" src="https://i.pinimg.com/1200x/d8/ae/32/d8ae321100b5f5a82b04dc33297807fd.jpg"  />
-</div>
 
 
 ###
