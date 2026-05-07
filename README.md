@@ -55,25 +55,20 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/1200x/d8/ae/32/d8ae321100b5f5a82b04dc33297807fd.jpg"  />
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/317d2rnhehrnrxxoofkhmkforisu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317d2rnhehrnrxxoofkhmkforisu&count=5" alt="Spotify recently played"  />
-  </a>
+<div align="center">
+  <img height="120" src="https://i.pinimg.com/1200x/d8/ae/32/d8ae321100b5f5a82b04dc33297807fd.jpg"  />
 </div>
+
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/assem-amr-abdelfattah/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=bluocaroot&logo=discord&label=Discord:&color=7289DA&logoColor=white&labelColor=7289DA&style=plastic" height="40" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=bluocaroot&logo=discord&label=Discord:&color=7289DA&logoColor=white&labelColor=7289DA&style=for-the-badge" height="60" alt="discord logo"  />
   <a href="https://codeforces.com/profile/BluoCaroot" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=CodeForces&logo=slack&label=&color=425e9c&logoColor=&labelColor=&style=plastic" height="40" alt="slack logo"  />
+    <img src="https://img.shields.io/static/v1?message=CodeForces&logo=slack&label=&color=425e9c&logoColor=&labelColor=&style=for-the-badge" height="60" alt="slack logo"  />
   </a>
 </div>
 
