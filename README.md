@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I'm a Software Engineer from Egypt and a Senior student @ Fayoum University. <br><br>🏆 <strong>Current Goal:</strong> I really enjoy competitive programming, and my main focus right now is qualifying for the ICPC!<br><br>💻 <strong>Beyond the Code:</strong> Aside from competitive programming, I love learning about computers and keeping up with all the latest technologies. I'm currently hoping to build more projects outside the scope of my university courses to expand my knowledge and learn more on my own.<br><br>📫 <strong>Get in Touch:</strong> Thank you for visiting my profile! Don't hesitate to contact me if you need help with anything, want to collaborate, or if you have any suggestions.</h3>
+<h3 align="left">I'm a Software Engineer from Egypt and a Software Engineering Intern @ Syntheia. <br><br>🏆 <strong>Current Goal:</strong> I really enjoy competitive programming, and my main focus right now is qualifying for the ICPC!<br><br>💻 <strong>Beyond the Code:</strong> Aside from competitive programming, I love learning about computers and keeping up with all the latest technologies. I'm currently hoping to build more projects outside the scope of my university courses to expand my knowledge and learn more on my own.<br><br>📫 <strong>Get in Touch:</strong> Thank you for visiting my profile! Don't hesitate to contact me if you need help with anything, want to collaborate, or if you have any suggestions.</h3>
 
 ###
 
